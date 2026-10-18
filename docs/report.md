@@ -280,7 +280,7 @@ $ curl -H "Host: heart-risk.local" -X POST .../predict -d '{...}'
 {"prediction":0,"risk_label":"low_risk","confidence":0.862,...}
 ```
 
-![kubectl get pods -n heart-risk - API (2/2) + Prometheus + Grafana all Running](../screenshots/k8s-pods.jpg)
+![kubectl get pods -n heart-risk - API (2/2) + Prometheus + Grafana all Running](../screenshots/k8s-pods.png)
 
 ## 11. Monitoring & Logging
 
